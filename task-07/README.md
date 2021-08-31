@@ -8,6 +8,12 @@ The DApp basically works in 3 steps:
 
 ### 1- Screenshots or video of your application running on Godwoken
 
+
+https://user-images.githubusercontent.com/89857663/131572585-5db5ad83-78ec-40d5-9167-0d4d10e1af9c.mp4
+
+<br/>
+<hr/>
+<br/>
 <img src="https://github.com/borisgang4/gitcoin-nervos/blob/master/task-07/ss.png" />
 
 ### 2- Link to the GitHub repository
